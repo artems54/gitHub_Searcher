@@ -1,0 +1,11 @@
+.img {
+    width: 70px;
+    height: 60px;
+}
+.user {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+    align-items: center;
+}

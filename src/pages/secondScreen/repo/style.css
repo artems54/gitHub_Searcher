@@ -1,0 +1,9 @@
+.repo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-top: 1px solid gray;
+    align-items: center;
+    padding: 10px;
+    height: 30px;
+}

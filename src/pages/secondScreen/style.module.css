@@ -1,0 +1,29 @@
+.box {
+    border: .5px solid gray;
+    height: 70%;
+    width: 30%;
+    margin: 0 auto;
+}
+#root {
+    display: flex;
+    justify-content: center;
+}
+.avatar {
+    width: 230px;
+    height: 180px;
+}
+.profile {
+    display: flex;
+    justify-content: space-around;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+.search {
+    display: flex;
+    justify-content: center;
+}
+.list {
+    padding: 0px;
+}
